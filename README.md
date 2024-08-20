@@ -103,31 +103,31 @@ Independent (RFK Jr.):
 
 In considering how to vote between Donald Trump and Kamala Harris, it's important to reflect on which candidate's platform aligns more closely with your values and the issues you prioritize. Here’s a brief comparison based on the key themes of their campaigns:
 
-1. Economic Policy:
+Economic Policy:
 
 Donald Trump: Advocates for economic nationalism, tax cuts, deregulation, and a free-market approach. His policies favor businesses and aim to reduce government intervention in the economy.
 
 Kamala Harris: Supports healthcare reform, climate change initiatives, and investments in green energy, with a focus on social justice and economic equality. Her policies may involve increased government spending and regulation to achieve these goals.
 
-4. Social Issues:
+Social Issues:
    
 Donald Trump: Takes a traditional conservative stance on social issues, opposing abortion and advocating for gun rights. His strict immigration policies and focus on border security are central to his platform.
 
 Kamala Harris: Emphasizes diversity, inclusion, and progressive values. She supports abortion rights, gun control measures, and policies aimed at advancing social justice and racial equality.
 
-6. Governance and Style:
+Governance and Style:
    
 Donald Trump: Known for his combative style, Trump challenges conventional political norms and uses social media to engage directly with his base. His approach is more populist, often stirring controversy to energize supporters.
 
 Kamala Harris: Favors a more traditional, professional approach to governance, focusing on coalition-building and detailed policy proposals. Her campaign is geared towards broad outreach, particularly to younger and diverse voters.
 
-8. Climate and Environment:
+Climate and Environment:
 
 Donald Trump: Has generally prioritized economic growth over environmental regulations, with skepticism toward extensive climate change policies.
 
 Kamala Harris: Places a strong emphasis on addressing climate change, with plans for green energy investments and environmental justice initiatives.
 
-9. Healthcare:
+Healthcare:
 
 Donald Trump: Supports a free-market approach to healthcare, aiming to reduce government involvement and promote competition.
 Kamala Harris: Advocates for strengthening and expanding healthcare access, including support for the Affordable Care Act and exploring universal healthcare options.
