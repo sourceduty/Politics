@@ -22,7 +22,10 @@ Donald Trump's campaign focuses heavily on a populist and nationalist message, e
 
 In contrast, Kamala Harris's campaign emphasizes diversity, inclusion, and progressive values. Her platform focuses on social justice, healthcare reform, and climate change. Harris advocates for expansive healthcare reform, including support for the Affordable Care Act and exploring options for universal healthcare, as well as addressing climate change through investments in green energy and environmental justice. Her campaign strategy involves a more traditional and professional tone, aimed at broad coalition-building and community outreach. Harris targets younger voters, people of color, and progressive Democrats, with a strong emphasis on policy proposals and detailed plans. Her campaign uses traditional media and grassroots organizing to build support and address major issues comprehensively.
 
-#### 2024 American Presidential Election Simulation
+<br>
+
+<details><summary>2024 American Presidential Election Simulation</summary>
+<br>
 
 Candidates:
 
@@ -93,6 +96,8 @@ Independent (RFK Jr.):
 
   - Position as a moderate alternative
 
+<br>
+</details>
 
 #
 ### Sourceduty's American Vote
