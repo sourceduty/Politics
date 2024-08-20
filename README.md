@@ -199,6 +199,9 @@ Moreover, misinformation and confusion about voting procedures can add to the ch
 
 ChatGPT doesn't have the ability to predict or know personal preferences for voting, including for individuals or entities like Sourceduty. Voting choices are influenced by many personal and contextual factors that would be specific to each individual or organization. If you have specific criteria or issues in mind, I can help analyze how different candidates' positions might align with those factors.
 
+#
+
+![Vote](https://github.com/user-attachments/assets/bb7b2ed3-739a-4bdd-b2ef-abe8cf294af8)
 
 #
 ### Related Links
