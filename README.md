@@ -214,6 +214,14 @@ ChatGPT doesn't have the ability to predict or know personal preferences for vot
 [Political Simulator](https://chat.openai.com/g/g-4GT3x5ITg-political-simulator)
 <br>
 [Donald Trump Shooting](https://github.com/sourceduty/Donald_Trump_Shooting)
+<br>
+[Candain Government](https://chatgpt.com/g/g-578CEKmsA-canadian-government)
+<br>
+[Polical Critic](https://chatgpt.com/g/g-TTm1fsq1v-political-critic)
+<br>
+[Public Simulator](https://chatgpt.com/g/g-HJp62OrcF-public-simulator)
+<br>
+[Government Model Simulator](https://chatgpt.com/g/g-8JwnHHEgc-government-model-simulator)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
