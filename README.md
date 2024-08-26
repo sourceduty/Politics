@@ -229,6 +229,10 @@ ChatGPT doesn't have the ability to predict or know personal preferences for vot
 [Semaphore Sign](https://github.com/sourceduty/Semaphore_Sign)
 <br>
 [Communication](https://github.com/sourceduty/Communication)
+<br>
+[Socialogy](https://github.com/sourceduty/Sociology)
+<br>
+[Social Security](https://github.com/sourceduty/Social_Security)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
