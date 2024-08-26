@@ -225,6 +225,8 @@ ChatGPT doesn't have the ability to predict or know personal preferences for vot
 [Public Simulator](https://chatgpt.com/g/g-HJp62OrcF-public-simulator)
 <br>
 [Government Model Simulator](https://chatgpt.com/g/g-8JwnHHEgc-government-model-simulator)
+<br>
+[Semaphore Sign](https://github.com/sourceduty/Semaphore_Sign)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
