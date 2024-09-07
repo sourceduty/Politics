@@ -11,6 +11,8 @@ Additionally, politics is a mechanism through which individuals and communities 
 #
 ### Canada
 
+![Canadian](https://github.com/user-attachments/assets/17f50db8-4cd9-4501-b969-32141b827349)
+
 In Canada, national politics are characterized by a multi-party system where the Liberal Party and Conservative Party are the dominant forces, while the New Democratic Party (NDP) and Bloc Québécois also play significant roles. Recent political discourse has focused on issues such as climate change, healthcare reform, and economic inequality. Canada's federal system allows for significant provincial autonomy, which often leads to regional variations in policy priorities and political debates. The political landscape is also influenced by indigenous rights and reconciliation efforts, which have gained increasing prominence in recent years.
 
 On the international stage, Canada is known for its commitment to multilateralism and diplomatic engagement. As a member of organizations like the United Nations and NATO, Canada plays a role in addressing global challenges such as climate change, human rights, and international security. Canada's foreign policy often emphasizes peacekeeping and humanitarian efforts, and it maintains strong bilateral relationships with countries such as the United States and the European Union. Globally, Canada's approach to politics is influenced by its position as a middle power, seeking to balance national interests with contributions to global stability and cooperation.
