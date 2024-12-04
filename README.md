@@ -237,6 +237,8 @@ ChatGPT doesn't have the ability to predict or know personal preferences for vot
 [Social Security](https://github.com/sourceduty/Social_Security)
 <br>
 [Citizen Simulator](https://github.com/sourceduty/Citizen_Simulator)
+<br>
+[Nepotism](https://github.com/sourceduty/Nepotism)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
